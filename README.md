@@ -6,6 +6,11 @@
 
 [Nest](https://github.com/nestjs/nest) for development with Prisma, PostgreSQL, Docker And Hot Reload
 
+| Branch    | Options                                                  |
+| --------- | -------------------------------------------------------- |
+| main      | docker-compose with: Postgres, PgAdmin                   |
+| with-node | docker-compose with: Node, Postgres, PgAdmin + HotReload |
+
 # Usage
 
 - Clone this repository
